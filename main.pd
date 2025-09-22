@@ -7,7 +7,7 @@
 #X obj 6 68 switch \$0 25;
 #X obj 160 68 switch \$0 27;
 #X obj 237 68 switch \$0 28;
-#X obj 250 140 waggon \$0 12;
+#X obj 250 130 waggon \$0 12;
 #X obj 234 7 stop \$0;
 #X obj 6 7 dcc_ex \$0;
 #X obj 6 99 loco \$0 56 Re\ 4/4";
